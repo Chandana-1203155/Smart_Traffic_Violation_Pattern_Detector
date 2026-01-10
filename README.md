@@ -90,7 +90,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 │   ├── Defect_Tracker Template_v0.1.xlsx
 │   ├── Unit_Test_Plan_v0.1.xlsx
 ├── images
-│   ├── smart_traffic.jpg
+│   ├── Home_page_image.jpg
 ├── styles
 │   ├── main.css
 ├── views
@@ -106,7 +106,7 @@ This project is a Streamlit web application designed to analyze traffic violatio
 │   └── _10_About.py
 ├── generate_cleaned_data.py
 ├── india_states.geojson
-├── Indian_Traffic_Violations.csv
+├── Indian_Traffic_Violations_Dataset.csv
 ├── main.py
 ├── README.md
 ├── requirements.txt
@@ -139,3 +139,4 @@ The main dependencies for this project are listed in the `pyproject.toml` file. 
 
 
 ---
+
